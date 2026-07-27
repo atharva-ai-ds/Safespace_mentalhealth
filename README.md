@@ -261,9 +261,9 @@ AI & Data Science Engineer
 
 CDAC PG-Diploma in Artificial Intelligence
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/atharva-ai-ds
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/atharv-karanjkar-83b75823b
 
 ---
 
