@@ -1,0 +1,1 @@
+"""SafeSpace-RAG backend package."""
